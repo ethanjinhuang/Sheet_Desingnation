@@ -1,0 +1,9 @@
+D:\Program\VSdocumnet\C#\Sheet_Designation_all_type\Sheet_Designation_all_type\bin\Debug\Sheet_Designation_all_type.exe.config
+D:\Program\VSdocumnet\C#\Sheet_Designation_all_type\Sheet_Designation_all_type\bin\Debug\Sheet_Designation_all_type.exe
+D:\Program\VSdocumnet\C#\Sheet_Designation_all_type\Sheet_Designation_all_type\bin\Debug\Sheet_Designation_all_type.pdb
+D:\Program\VSdocumnet\C#\Sheet_Designation_all_type\Sheet_Designation_all_type\obj\Debug\Sheet_Designation_all_type.csprojResolveAssemblyReference.cache
+D:\Program\VSdocumnet\C#\Sheet_Designation_all_type\Sheet_Designation_all_type\obj\Debug\Sheet_Designation_all_type.Form1.resources
+D:\Program\VSdocumnet\C#\Sheet_Designation_all_type\Sheet_Designation_all_type\obj\Debug\Sheet_Designation_all_type.Properties.Resources.resources
+D:\Program\VSdocumnet\C#\Sheet_Designation_all_type\Sheet_Designation_all_type\obj\Debug\Sheet_Designation_all_type.csproj.GenerateResource.Cache
+D:\Program\VSdocumnet\C#\Sheet_Designation_all_type\Sheet_Designation_all_type\obj\Debug\Sheet_Designation_all_type.exe
+D:\Program\VSdocumnet\C#\Sheet_Designation_all_type\Sheet_Designation_all_type\obj\Debug\Sheet_Designation_all_type.pdb
